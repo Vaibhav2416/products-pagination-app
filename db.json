@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Headphones",
+      "price": "100",
+      "image": "https://farm4.staticflickr.com/3319/3211138044_9232086442.jpg"
+    }
+  ]
+}
